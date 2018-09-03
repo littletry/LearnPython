@@ -1,7 +1,7 @@
 # _*_ coding: UTF-8 _*_
 
 
-from basic.classes.test1 import Employee
+from advanced.classes.test1 import Employee
 
 """创建 Employee 类的第一个对象"""
 emp1 = Employee("Zara", 2000)
